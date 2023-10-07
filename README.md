@@ -1,4 +1,4 @@
-# Treine.me
+# Desafio avançado - Recriando layout
 Projeto do curso Explorer da Rocketseat
 
 Tecnologias utilizadas:
